@@ -1,0 +1,6 @@
+logging.level:
+  org.apache.cxf: TRACE
+
+cxf:
+  path: /
+
